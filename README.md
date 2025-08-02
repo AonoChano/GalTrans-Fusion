@@ -73,5 +73,5 @@ Enable **"Developer Mode"** in the settings to print detailed debug logs to the 
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE).````
+This project is licensed under the [Apache-2.0 License](LICENSE).
 
